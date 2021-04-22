@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436939275472",
+    "project_id": "grubhub-5a322",
+    "storage_bucket": "grubhub-5a322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436939275472:android:69d2c19133e8d5d90972d5",
+        "android_client_info": {
+          "package_name": "com.example.grubhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436939275472-8utvuuo3hjqsb9mqpqh1i2oo910k3q5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grubhub",
+            "certificate_hash": "5b612fed955cce4e565cb42692d6ddcd3868abf6"
+          }
+        },
+        {
+          "client_id": "436939275472-8f1vsqn55alcd0ivmen48j0cblqv55fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzF9l7a26nfRWZb7pFvzUmHSYk5kLLiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436939275472-8f1vsqn55alcd0ivmen48j0cblqv55fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
